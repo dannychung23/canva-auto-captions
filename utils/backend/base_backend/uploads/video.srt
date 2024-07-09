@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+equate non-drowsy sinus 12-hour pseudoephedrine hydrochloride extended-release tablets 120 mg nasal decongestant maximum strength congestion sinus pressure
+
+2
+00:00:02,000 --> 00:00:04,000
+ drug facts active ingredient in each tablet
+
+3
+00:00:04,000 --> 00:00:06,000
+ pseudoephedrine hydrochloride 120 mg
+
+4
+00:00:06,000 --> 00:00:08,000
+ purpose nasal decongestant
+
+5
+00:00:08,000 --> 00:00:10,000
+ uses temporarily relieves nasal congestion due to the common cold a fever or other upper respiratory allergies temporarily relieve sinus congestion and pressure
+
